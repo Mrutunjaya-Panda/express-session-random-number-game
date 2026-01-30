@@ -192,6 +192,9 @@ Cookies / Sessions
 * Game-state architecture
 
 ---
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/37b8d867-b950-48e2-8426-511a70f20cba
 
 ## ✨ Future Enhancements
 
